@@ -12,9 +12,6 @@ The project evaluates five representative models – **SVM**, **BERT**, **RoBERT
 4. [Training & Evaluation](#training--evaluation)
 5. [Results](#results)
 6. [Repository Structure](#repository-structure)
-8. [License](#license)
-9. [Citation](#citation)
-10. [Acknowledgements](#acknowledgements)
 
 ---
 
